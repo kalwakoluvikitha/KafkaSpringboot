@@ -1,0 +1,7 @@
+package com.example.config;
+
+public class AppConstants {
+	
+	public static String lOCATION_UPDATE_TOPICS="location-update-topic";
+
+}
